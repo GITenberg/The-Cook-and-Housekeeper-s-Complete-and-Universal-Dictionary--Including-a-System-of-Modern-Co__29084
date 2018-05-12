@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33690'
     url: http://www.gutenberg.org/2009/agents/33690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29084#The-Cook-and-Housekeeper-s-Complete-and-Universal-Dictionary--Including-a-System-of-Modern-Co_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-06-09'
 gutenberg_type: Text
